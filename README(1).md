@@ -1,25 +1,19 @@
-## rot13
+## inter
 
 ### Instructions
 
-Write a program that takes a `string` and displays it, replacing each of its
-letters by the letter 13 spots ahead in alphabetical order.
+Write a program that takes two `string` and displays, without doubles, the characters that appear in both `string`, in the order they appear in the first one.
 
-- 'z' becomes 'm' and 'Z' becomes 'M'. The case of the letter stays the same.
+- The display will be followed by a newline (`'\n'`).
 
-- The output will be followed by a newline (`'\n'`).
-
-- If the number of arguments is different from 1, the program displays nothing.
+- If the number of arguments is different from 2, the program displays nothing.
 
 ### Usage
 
 ```console
-$ go run . "abc"
-nop
-$ go run . "hello there"
-uryyb gurer
-$ go run . "HELLO, HELP"
-URYYB, URYC
-$ go run .
+$ go run . "padinton" "paqefwtdjetyiytjneytjoeyjnejeyj"
+padinto
+$ go run . ddf6vewg64f  twthgdwthdwfteewhrtag6h4ffdhsd
+df6ewg4
 $
 ```
