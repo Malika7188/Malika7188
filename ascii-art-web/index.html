@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ascii Art</title>
+    <style>
+        .dj{
+            color: rgb(18, 18, 20);
+            white-space: pre;
+            overflow:auto;
+            background-color:rgb(30, 51, 34);
+            width: 100%;
+            height: 470px;
+            border-radius: 9px;
+            border-top-width: 10px;
+           
+        }
+      
+        .bod{
+            font-size: large;
+            align-items: center;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            color: rgb(37, 84, 126);
+            
+        }
+        .text{
+            font-size: x-large;
+            font-family: Arial, Helvetica, sans-serif;
+            color:maroon;
+            border-width: 10px;
+            border-color: rgb(252, 215, 6);
+        }
+        .butt{
+            color:rebeccapurple;
+            align-content: center;
+            width: 60px;
+            height: 30px;
+            border-radius:  10px 10px 10px 10px;
+            
+        }
+       
+    </style>
+</head>
+<body class="bod" style="background-color:lemonchiffon;"> 
+    <h1>Ascii Art</h1>
+    <h2 style="color: rgb(49, 129, 134);">Welcome to ascii art.</h2> <h3>Please type something bellow and choose a file</h3>
+    
+    <br>
+    <form action="/submit" method="post" class="formdata">
+        <label for="text">Enter Text:</label><br>
+        <textarea name="text" id="text" allign="center" cols="40" rows="2" class="text"></textarea><br><br>
+        <label for="File">Select Banner:</label>
+    <select name="File" id="File" class="file">
+        <option value="standard.txt">Standard</option>
+        <option value="thinkertoy.txt">Thinkertoy</option>
+        <option value="shadow.txt">Shadow</option>
+    </select>
+    <br>
+    <button type= "submit" class="butt" style="display: block; border-color: brown;">Submit</button>
+    </form>
+    <br>
+
+    <h2>Result Area</h2>
+    <div id="asciiResult" class="dj">
+        {{ if .Input }}
+        <pre style="color:azure;">
+            {{range .AsciiArt}}{{ . }}
+            {{ end }} 
+
+        </pre>
+        {{ end }}
+    </div>
+</body>
+</html>
