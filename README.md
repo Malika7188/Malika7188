@@ -23,7 +23,6 @@
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asman-malika-84981a211/)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=twitter)](https://x.com/AsmanMalika)
 [![Dev.to](https://img.shields.io/badge/Dev.to-black?style=flat&logo=dev.to)](https://dev.to/malika7188)
 
