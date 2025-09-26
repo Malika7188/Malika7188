@@ -2,7 +2,7 @@
 
 🌍 From Kisumu, Kenya  
 👩‍💻 Software Developer | Open Source Contributor | Blockchain Enthusiast  
-📚 Currently learning: Rust and Web3 development  
+📚 Currently learning: Machine Learning (ML) and Web3 development  
 🎯 Passionate about using tech for good — especially in health, finance & women empowerment🌱 
 
 ---
