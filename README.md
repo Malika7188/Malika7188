@@ -9,11 +9,7 @@
 
 ## 🔧 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)  
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go)  
+ ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go)    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)    ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)      ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)    ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)    
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
 
 ---
@@ -33,12 +29,6 @@
 ## 🌐 Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malika7188&layout=default&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=malika7188&color=brightgreen)
 
 ---
 
