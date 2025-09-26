@@ -26,12 +26,6 @@
 
 ---
 
-## 🌐 Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malika7188&layout=default&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 🌐 Let's Connect
 
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=twitter)](https://x.com/AsmanMalika)  
