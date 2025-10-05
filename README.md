@@ -16,7 +16,7 @@
 
 ## 📈 GitHub Stats
 
-[![Malika's GitHub stats](https://github-readme-stats.vercel.app/api?username=malika7188&show_icons=true&count_private=true&theme=radical)](https://github.com/malika7188)
+[![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=malika7188&limit=5&theme=radical)](https://github.com/malika7188)
 
 ---
 
