@@ -2,7 +2,6 @@
 
 🌍 From Kisumu, Kenya  
 👩‍💻 Software Developer | Open Source Contributor | Blockchain Enthusiast | Outreacy Intern
-
 📚 Currently learning: Machine Learning (ML) and Web3 development  
 🎯 Passionate about using tech for good — especially in health, finance & women empowerment🌱 
 
