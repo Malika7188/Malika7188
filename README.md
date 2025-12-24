@@ -16,7 +16,7 @@
 
 ## 📈 GitHub Stats
 
-[![Malika's GitHub stats](https://github-readme-stats.vercel.app/api?username=malika7188&show_icons=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&theme=radical)](https://github.com/malika7188)
+[![Malika's GitHub stats](https://github-readme-stats.vercel.app/api?username=malika7188&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/malika7188)
 
 ---
 
@@ -27,7 +27,9 @@
 ---
 ## 🌐 Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malika7188&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ---
 ## 🌐 Let's Connect
