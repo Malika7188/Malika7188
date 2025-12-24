@@ -22,7 +22,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=malika7188&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=malika7188&theme=flat&margin-w=8)
 
 ---
 ## 🌐 Languages
