@@ -27,10 +27,7 @@
 ---
 ## 🌐 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malika7188&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asman-malika-84981a211)
