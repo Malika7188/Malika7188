@@ -22,7 +22,8 @@
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=malika7188&theme=flat&margin-w=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malika7188&show_icons=true&theme=default)
+
 
 ---
 ## 🌐 Languages
