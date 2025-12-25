@@ -22,8 +22,6 @@
 
 ## 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&margin-w=8&no-frame=true)
 
 
