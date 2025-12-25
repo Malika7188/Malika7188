@@ -35,6 +35,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asman-malika-84981a211)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=twitter)](https://x.com/AsmanMalika)  
 [![Dev.to](https://img.shields.io/badge/Dev.to-black?style=flat&logo=dev.to)](https://dev.to/malika7188)
+[![GNOME Blog](https://img.shields.io/badge/GNOME-Blog-4A86CF?style=flat&logo=gnome&logoColor=white)](https://blogs.gnome.org/malika/)
+
 
 
 > # Code with purpose. Build with people.
