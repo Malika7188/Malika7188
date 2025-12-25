@@ -30,8 +30,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malika7188&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ## 🌐 Let's Connect
+
+[![GNOME GitLab](https://img.shields.io/badge/GNOME-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.gnome.org/Malika)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asman-malika-84981a211)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=twitter)](https://x.com/AsmanMalika)  
 [![Dev.to](https://img.shields.io/badge/Dev.to-black?style=flat&logo=dev.to)](https://dev.to/malika7188)
+
 
 > # Code with purpose. Build with people.
