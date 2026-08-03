@@ -1,9 +1,8 @@
 # Hi there, I'm Malika Asman 👋
 
 🌍 From Kisumu, Kenya  
-👩‍💻 Software Developer | Open Source Contributor | Blockchain Enthusiast | Outreachy '25 & '26 Intern                                                                                                                                                            
-📚 Currently learning: Machine Learning (ML) and Web3 development  
-🎯 Passionate about using tech for good — especially in health, finance & women empowerment🌱 
+👩‍💻 Software Developer | Open Source Contributor | Blockchain Enthusiast | Outreachy '25 & '26 Intern                                                                                                                                                              
+🎯 Passionate about using tech for good, especially in health, finance & women empowerment🌱 
 
 ---
 
